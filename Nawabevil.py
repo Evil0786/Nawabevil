@@ -37,7 +37,7 @@ N2 = "[#FF00FF]" # Pink
 O2 = "[#00FFFF]" # Biru Muda
 P2 = "[#FFFFFF]" # Putih
 J2 = "[#FF8F00]" # Jingga
-A2=[#AAAAAA]" # Abu-Abu
+A2=  "[#AAAAAA]" # Abu-Abu
 
 def modelsInstaller():
 	try :
